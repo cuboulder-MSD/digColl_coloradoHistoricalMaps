@@ -94,4 +94,7 @@ Statement in collection: The organization that has made the Item available belie
 
 Rights statement comes from [rightsstatements.org](https://rightsstatements.org/page/1.0/?language=en)
 ## Resources
+Mount Blue Sky Resources: <br /> 
+[Petition to Rename Mount Evans by the Cheyenne & Arapaho Tribes and The Wilderness Society](https://www.wilderness.org/sites/default/files/media/file/Letter-Petition%20to%20Rename%20Mount%20Evans.pdf) <br /> 
+[The Denver Post Article](https://www.denverpost.com/2023/09/15/colorado-mount-evans-mount-blue-sky-name-change-approval/)
 ## Notes
